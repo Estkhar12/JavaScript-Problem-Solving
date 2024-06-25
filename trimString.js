@@ -4,3 +4,5 @@ function func() {
   console.log(st);
 }
 func();
+
+
